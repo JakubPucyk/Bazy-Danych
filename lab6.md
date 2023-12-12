@@ -4,7 +4,7 @@ CREATE TABLE infs_pucykj.kreatura SELECT * FROM wikingowie.kreatura;
 
 ALTER TABLE kreatura ADD PRIMARY KEY(idKreatury);
 
-CREATE TABLE infs_infs_pucykj.zasob SELECT * FROM wikingowie.zasob;
+CREATE TABLE infs_pucykj.zasob SELECT * FROM wikingowie.zasob;
 
 ALTER TABLE zasob ADD PRIMARY KEY(zasob);
 

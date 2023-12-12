@@ -89,8 +89,8 @@ CREATE TABLE statek(
 ```
 ```sql
 INSERT INTO statek (nazwa_statku, rodzaj_statku, data_wodowanie, max_ladownosc) VALUES
-('Bismarck', 'wojenny', '1640-01-15', 100),
-('Agir', 'handlowy', '1640-01-16', 400);
+('Bismarck', 'Wojenny', '1640-01-15', 100),
+('Agir', 'Handlowy', '1640-01-16', 400);
 ```
 ```sql
 ALTER TABLE postac
